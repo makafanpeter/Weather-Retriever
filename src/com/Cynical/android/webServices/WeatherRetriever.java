@@ -19,7 +19,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * 
  */
 public class WeatherRetriever {
-	private final String APICODE = "A6554688575";
+	private final String APICODE = "CODE";
 	
 	private double temp;
 	private String conditions;
